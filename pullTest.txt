@@ -1,4 +1,4 @@
 for testing pull command
 
 
-changing the file content in repository of github.
+changing the file content (in the same line i:e; 2nd time )repository of github.
